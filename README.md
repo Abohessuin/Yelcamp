@@ -17,4 +17,4 @@ u can login with exciting account or register new account
 
 4-Handing  authentication vs authorization of whole site
 
-![Alt text](C:\Users\lenovo\Pictures\Screenshots\1.png)
+![Alt text](./1.png)
