@@ -1,8 +1,5 @@
 # Yelcamp
 
-
-# what is Yelcamp project? 
-
 u can add,delete ,edit new campgrounds or comments
 
 u can login with exciting account or register new account
